@@ -1,0 +1,7 @@
+name: SkyBlock_1_12_2
+version: '${project.version}'
+main: me.devrene.skyblock_1_12_2.SkyBlock_1_12_2
+prefix: SB
+authors: [ DevRene ]
+description: desc
+website: web
